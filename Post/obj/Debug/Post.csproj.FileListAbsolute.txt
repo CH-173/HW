@@ -1,0 +1,7 @@
+C:\StdProjects\GL-Course3\Task3\Post\bin\Debug\Post.exe.config
+C:\StdProjects\GL-Course3\Task3\Post\bin\Debug\Post.exe
+C:\StdProjects\GL-Course3\Task3\Post\bin\Debug\Post.pdb
+C:\StdProjects\GL-Course3\Task3\Post\obj\Debug\Post.csprojAssemblyReference.cache
+C:\StdProjects\GL-Course3\Task3\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+C:\StdProjects\GL-Course3\Task3\Post\obj\Debug\Post.exe
+C:\StdProjects\GL-Course3\Task3\Post\obj\Debug\Post.pdb

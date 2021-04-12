@@ -1,0 +1,7 @@
+C:\StdProjects\Months\Months\bin\Debug\Months.exe.config
+C:\StdProjects\Months\Months\bin\Debug\Months.exe
+C:\StdProjects\Months\Months\bin\Debug\Months.pdb
+C:\StdProjects\Months\Months\obj\Debug\Months.csprojAssemblyReference.cache
+C:\StdProjects\Months\Months\obj\Debug\Months.csproj.CoreCompileInputs.cache
+C:\StdProjects\Months\Months\obj\Debug\Months.exe
+C:\StdProjects\Months\Months\obj\Debug\Months.pdb

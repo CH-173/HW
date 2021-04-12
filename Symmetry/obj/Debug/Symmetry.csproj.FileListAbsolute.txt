@@ -1,0 +1,7 @@
+C:\StdProjects\GL-Course2\Symmetry\bin\Debug\Symmetry.exe.config
+C:\StdProjects\GL-Course2\Symmetry\bin\Debug\Symmetry.exe
+C:\StdProjects\GL-Course2\Symmetry\bin\Debug\Symmetry.pdb
+C:\StdProjects\GL-Course2\Symmetry\obj\Debug\Symmetry.csprojAssemblyReference.cache
+C:\StdProjects\GL-Course2\Symmetry\obj\Debug\Symmetry.csproj.CoreCompileInputs.cache
+C:\StdProjects\GL-Course2\Symmetry\obj\Debug\Symmetry.exe
+C:\StdProjects\GL-Course2\Symmetry\obj\Debug\Symmetry.pdb

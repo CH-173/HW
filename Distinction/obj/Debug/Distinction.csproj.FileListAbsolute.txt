@@ -1,0 +1,7 @@
+C:\StdProjects\GL-Course2\Distinction\bin\Debug\Distinction.exe.config
+C:\StdProjects\GL-Course2\Distinction\bin\Debug\Distinction.exe
+C:\StdProjects\GL-Course2\Distinction\bin\Debug\Distinction.pdb
+C:\StdProjects\GL-Course2\Distinction\obj\Debug\Distinction.csprojAssemblyReference.cache
+C:\StdProjects\GL-Course2\Distinction\obj\Debug\Distinction.csproj.CoreCompileInputs.cache
+C:\StdProjects\GL-Course2\Distinction\obj\Debug\Distinction.exe
+C:\StdProjects\GL-Course2\Distinction\obj\Debug\Distinction.pdb
