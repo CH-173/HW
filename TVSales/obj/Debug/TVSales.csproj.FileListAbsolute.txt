@@ -1,0 +1,10 @@
+C:\StdProjects\GL-Course3\HW\TVSales\obj\Debug\TVSales.csprojAssemblyReference.cache
+C:\StdProjects\GL-Course3\HW\TVSales\obj\Debug\TVSales.csproj.CoreCompileInputs.cache
+C:\StdProjects\GL-Course3\HW\TVSales\bin\Debug\TVSales.exe.config
+C:\StdProjects\GL-Course3\HW\TVSales\bin\Debug\TVSales.exe
+C:\StdProjects\GL-Course3\HW\TVSales\bin\Debug\TVSales.pdb
+C:\StdProjects\GL-Course3\HW\TVSales\obj\Debug\TVSales.exe
+C:\StdProjects\GL-Course3\HW\TVSales\obj\Debug\TVSales.pdb
+C:\StdProjects\GL-Course3\HW\TVSales\bin\Debug\TVSales_Library.dll
+C:\StdProjects\GL-Course3\HW\TVSales\bin\Debug\TVSales_Library.pdb
+C:\StdProjects\GL-Course3\HW\TVSales\obj\Debug\TVSales.csproj.CopyComplete

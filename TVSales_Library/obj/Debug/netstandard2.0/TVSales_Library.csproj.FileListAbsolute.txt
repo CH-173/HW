@@ -1,0 +1,9 @@
+C:\StdProjects\GL-Course3\HW\TVSales_Library\obj\Debug\netstandard2.0\TVSales_Library.csprojAssemblyReference.cache
+C:\StdProjects\GL-Course3\HW\TVSales_Library\obj\Debug\netstandard2.0\TVSales_Library.AssemblyInfoInputs.cache
+C:\StdProjects\GL-Course3\HW\TVSales_Library\obj\Debug\netstandard2.0\TVSales_Library.AssemblyInfo.cs
+C:\StdProjects\GL-Course3\HW\TVSales_Library\obj\Debug\netstandard2.0\TVSales_Library.csproj.CoreCompileInputs.cache
+C:\StdProjects\GL-Course3\HW\TVSales_Library\bin\Debug\netstandard2.0\TVSales_Library.deps.json
+C:\StdProjects\GL-Course3\HW\TVSales_Library\bin\Debug\netstandard2.0\TVSales_Library.dll
+C:\StdProjects\GL-Course3\HW\TVSales_Library\bin\Debug\netstandard2.0\TVSales_Library.pdb
+C:\StdProjects\GL-Course3\HW\TVSales_Library\obj\Debug\netstandard2.0\TVSales_Library.dll
+C:\StdProjects\GL-Course3\HW\TVSales_Library\obj\Debug\netstandard2.0\TVSales_Library.pdb
